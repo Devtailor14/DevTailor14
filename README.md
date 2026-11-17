@@ -2,9 +2,14 @@
 
 ### 🚀 Backend Software Engineer | Node.js | TypeScript | MERN Stack
 
-\<p align="center">   \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Backend+Software+Engineer;Building+Scalable+Backend+Systems;Node.js+%7C+TypeScript+%7C+MongoDB;Fintech+%7C+AI+%7C+Full+Stack+Development](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=23\&duration=3000\&pause=1000\&color=36BCF7\&center=true\&vCenter=true\&width=650\&lines=Backend+Software+Engineer;Building+Scalable+Backend+Systems;Node.js+%7C+TypeScript+%7C+MongoDB;Fintech+%7C+AI+%7C+Full+Stack+Development)" alt="Typing SVG" /> \</p>
+\<p align="center">
+&#x20; \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Backend+Software+Engineer;Building+Scalable+Backend+Systems;Node.js+%7C+TypeScript+%7C+MongoDB;Fintech+%7C+AI+%7C+Full+Stack+Development](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=23\&duration=3000\&pause=1000\&color=36BCF7\&center=true\&vCenter=true\&width=650\&lines=Backend+Software+Engineer;Building+Scalable+Backend+Systems;Node.js+%7C+TypeScript+%7C+MongoDB;Fintech+%7C+AI+%7C+Full+Stack+Development)" alt="Typing SVG" />
+\</p>
 
-\<p align="center">   \<img src="[https://komarev.com/ghpvc/?username=DevTailor14&label=Profile%20Views&color=blueviolet&style=for-the-badge](https://komarev.com/ghpvc/?username=DevTailor14\&label=Profile%20Views\&color=blueviolet\&style=for-the-badge)" alt="Profile Views" />   \<img src="[https://img.shields.io/github/followers/DevTailor14?label=Followers&style=for-the-badge&color=blue](https://img.shields.io/github/followers/DevTailor14?label=Followers\&style=for-the-badge\&color=blue)" alt="Followers" /> \</p>
+\<p align="center">
+&#x20; \<img src="[https://komarev.com/ghpvc/?username=DevTailor14&label=Profile%20Views&color=blueviolet&style=for-the-badge](https://komarev.com/ghpvc/?username=DevTailor14\&label=Profile%20Views\&color=blueviolet\&style=for-the-badge)" alt="Profile Views" />
+&#x20; \<img src="[https://img.shields.io/github/followers/DevTailor14?label=Followers&style=for-the-badge&color=blue](https://img.shields.io/github/followers/DevTailor14?label=Followers\&style=for-the-badge\&color=blue)" alt="Followers" />
+\</p>
 
 ---
 
@@ -64,7 +69,14 @@ A MERN-stack AI image generation platform that transforms text prompts into imag
 
 **Tech:** MongoDB • Express.js • React • Node.js • ClipDrop API
 
-\<p>   \<a href="[https://github.com/DevTailor14/pixelprompt-backend](https://github.com/DevTailor14/pixelprompt-backend)">     \<img src="[https://img.shields.io/badge/Backend-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/Backend-181717?style=for-the-badge\&logo=github)" alt="Backend Repository" />   \</a>   \<a href="[https://github.com/DevTailor14/pixelprompt-frontend](https://github.com/DevTailor14/pixelprompt-frontend)">     \<img src="[https://img.shields.io/badge/Frontend-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/Frontend-181717?style=for-the-badge\&logo=github)" alt="Frontend Repository" />   \</a> \</p>
+\<p>
+&#x20; \<a href="[https://github.com/DevTailor14/pixelprompt-backend](https://github.com/DevTailor14/pixelprompt-backend)">
+&#x20;   \<img src="[https://img.shields.io/badge/Backend-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/Backend-181717?style=for-the-badge\&logo=github)" alt="Backend Repository" />
+&#x20; \</a>
+&#x20; \<a href="[https://github.com/DevTailor14/pixelprompt-frontend](https://github.com/DevTailor14/pixelprompt-frontend)">
+&#x20;   \<img src="[https://img.shields.io/badge/Frontend-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/Frontend-181717?style=for-the-badge\&logo=github)" alt="Frontend Repository" />
+&#x20; \</a>
+\</p>
 
 ### 🚦 Traffic Management System
 
@@ -108,7 +120,9 @@ An e-commerce application built to explore modern web development and shopping w
 
 ## 🐍 Contribution Activity
 
-\<p align="center">   \<img src="[https://raw.githubusercontent.com/DevTailor14/DevTailor14/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/DevTailor14/DevTailor14/output/github-contribution-grid-snake-dark.svg)" alt="GitHub Contribution Snake" /> \</p>
+\<p align="center">
+&#x20; \<img src="[https://raw.githubusercontent.com/DevTailor14/DevTailor14/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/DevTailor14/DevTailor14/output/github-contribution-grid-snake-dark.svg)" alt="GitHub Contribution Snake" />
+\</p>
 
 ---
 
@@ -118,6 +132,4 @@ An e-commerce application built to explore modern web development and shopping w
 
 \<p align="center">   💡 \<i>Great software is built through curiosity, consistency, and continuous learning.\</i> \</p>
 
-\<p align="center">
-&#x20; ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect.
-\</p>
+\<p align="center">   ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect. \</p>
