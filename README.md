@@ -69,14 +69,7 @@ A MERN-stack AI image generation platform that transforms text prompts into imag
 
 **Tech:** MongoDB • Express.js • React • Node.js • ClipDrop API
 
-\<p>
-&#x20; \<a href="[https://github.com/DevTailor14/pixelprompt-backend](https://github.com/DevTailor14/pixelprompt-backend)">
-&#x20;   \<img src="[https://img.shields.io/badge/Backend-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/Backend-181717?style=for-the-badge\&logo=github)" alt="Backend Repository" />
-&#x20; \</a>
-&#x20; \<a href="[https://github.com/DevTailor14/pixelprompt-frontend](https://github.com/DevTailor14/pixelprompt-frontend)">
-&#x20;   \<img src="[https://img.shields.io/badge/Frontend-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/Frontend-181717?style=for-the-badge\&logo=github)" alt="Frontend Repository" />
-&#x20; \</a>
-\</p>
+\<p>   \<a href="[https://github.com/DevTailor14/pixelprompt-backend](https://github.com/DevTailor14/pixelprompt-backend)">     \<img src="[https://img.shields.io/badge/Backend-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/Backend-181717?style=for-the-badge\&logo=github)" alt="Backend Repository" />   \</a>   \<a href="[https://github.com/DevTailor14/pixelprompt-frontend](https://github.com/DevTailor14/pixelprompt-frontend)">     \<img src="[https://img.shields.io/badge/Frontend-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/Frontend-181717?style=for-the-badge\&logo=github)" alt="Frontend Repository" />   \</a> \</p>
 
 ### 🚦 Traffic Management System
 
@@ -128,7 +121,11 @@ An e-commerce application built to explore modern web development and shopping w
 
 ## 🤝 Let's Connect
 
-\<p align="center">   \<a href="[https://github.com/DevTailor14](https://github.com/DevTailor14)">     \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" alt="GitHub" />   \</a> \</p>
+\<p align="center">
+&#x20; \<a href="[https://github.com/DevTailor14](https://github.com/DevTailor14)">
+&#x20;   \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" alt="GitHub" />
+&#x20; \</a>
+\</p>
 
 \<p align="center">   💡 \<i>Great software is built through curiosity, consistency, and continuous learning.\</i> \</p>
 
